@@ -6,9 +6,9 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Cryptocurrency Rewards Token Project of The Year | Defi Kings - Automated Eco-system</title>
-        <meta property="og:title" content="Cryptocurrency Rewards Token Project of The Year | Defi Kings" key="og_title" />
-        <meta name="twitter:title" content="Cryptocurrency Rewards Token Project of The Year | Defi Kings" key="twitter_title" />
+        <title>Defi Kings Royal Bridge | Defi Kings - Automated Eco-system</title>
+        <meta property="og:title" content="Defi Kings Royal Bridge | Defi Kings" key="og_title" />
+        <meta name="twitter:title" content="Crypto Utility and Passive Income Project of The Year | Defi Kings" key="twitter_title" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Aynonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
         <meta property="og:type" content="website" />
