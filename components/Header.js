@@ -55,8 +55,8 @@ const Header = (props) => {
                                             styles={{ marginRight: "3rem" }}
                                             src="/images/logo.png"
                                             alt="Defi Kings"
-                                            width={51}
-                                            height={70}
+                                            width={114}
+                                            height={157}
                                             layout="fixed"
                                         />
                                     </div>
