@@ -61,7 +61,7 @@
 
     .question {
       span {
-        color: var(--primary);
+        color: #000000;
         font-weight: bold;
         position: absolute;
         right: -2px;
@@ -73,7 +73,7 @@
         transition: all 0.25s ease;
 
         &:hover {
-          color: #8c6d96;
+          color: #FFF;
         }
       }
 
