@@ -42,7 +42,7 @@
     color: #fff;
 
     &:hover {
-      color: #000;
+      color: var(--highlight);
     }
 
     svg {
