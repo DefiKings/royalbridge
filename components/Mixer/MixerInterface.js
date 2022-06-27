@@ -474,7 +474,7 @@ const Content = ({
                              <br />
                                     <strong>IMPORTANT:</strong> If you choose the custom 
                                     option and send any amount outside the minimum
-                                    and maximum displayed, YOU WILL LOSE what you send! Only
+                                    and maximum displayed, <strong>YOU WILL LOSE</strong> what you send! Only
                                     send within the amounts the app displays!
                              
                                 </small>
