@@ -468,10 +468,10 @@ const Content = ({
                                     With the <strong>custom</strong> option you
                                     can send assets without connecting your
                                     wallet!
-                                    <br>
+                                    <br /><br />
                                     The bridge will automatically retrieve the
                                     sent amount from the deposit address.
-                             <br>
+                             <br /><br />
                                     <strong>IMPORTANT:</strong> If you choose the custom 
                                     option and send any amount outside the minimum
                                     and maximum displayed, <strong>YOU WILL LOSE</strong> what you send! Only
