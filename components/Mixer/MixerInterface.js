@@ -471,6 +471,12 @@ const Content = ({
                                     <br />
                                     The bridge will automatically retrieve the
                                     sent amount from the deposit address.
+                             <br />
+                                    <strong>IMPORTANT:</strong> If you choose the custom 
+                                    option and send any amount outside the minimum
+                                    and maximum displayed, YOU WILL LOSE what you send! Only
+                                    send within the amounts the app displays!
+                             
                                 </small>
                             ) : (
                                 <small>
