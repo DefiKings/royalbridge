@@ -76,7 +76,7 @@ export default function App() {
                                 generated address up to the maximum allowed.
                             </p>
                             <p>
-                                All funds has to be deposited within the
+                                All funds MUST be deposited within the
                                 selected delay period.
                             </p>
                         </div>
