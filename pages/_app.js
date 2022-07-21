@@ -10,14 +10,14 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="Defi Kings Royal Bridge | Defi Kings" key="og_title" />
         <meta name="twitter:title" content="Crypto Utility and Passive Income Project of The Year | Defi Kings" key="twitter_title" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Aynonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
+        <meta name="description" content="Anonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.defikings.io/" />
-        <meta property="og:description" content="Aynonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
+        <meta property="og:description" content="Anonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
         <meta property="og:image" content="/images/social.jpg" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.defikings.io/" />
-        <meta property="twitter:description" content="Aynonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
+        <meta property="twitter:description" content="Anonymous cross-chain transactions. Anonymous CRO, Polygon, Matic, ETH, BNB, CRO, Fantom bridge. - Cryptocurrency Rewards Token Project of The Year | Defi Kings" />
         <meta property="twitter:image" content="/images/social.jpg" />
         <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png" />
